@@ -2,7 +2,7 @@
 
 Description: This is basic web application made using golang and html that allows one to convert a string into a Graphical User Interface (GUI).
 
-Authors: Abdul Raheem Khan , Jason Asante-Twumasi and Douglas Barco
+Authors: Nadine, Jason Asante-Twumasi and Douglas Barco
 
 Usage: how to run
 
